@@ -1,0 +1,32 @@
+body{
+    font-family: Arial;
+    margin: 20px;
+    background: #f4f4f4;
+}
+
+h1{
+    color: darkblue;
+}
+
+.event-card{
+    background: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+button{
+    padding: 8px;
+    cursor: pointer;
+}
+
+.error{
+    color: red;
+    font-size: 12px;
+}
+
+#loading{
+    display:none;
+    color: green;
+    font-weight: bold;
+}
