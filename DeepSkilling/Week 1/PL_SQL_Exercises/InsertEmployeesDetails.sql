@@ -1,0 +1,5 @@
+INSERT INTO Employees VALUES (1,'John','IT',50000);
+INSERT INTO Employees VALUES (2,'Alice','IT',60000);
+INSERT INTO Employees VALUES (3,'Bob','HR',45000);
+
+COMMIT;
