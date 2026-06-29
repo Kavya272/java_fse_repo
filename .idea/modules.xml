@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeepSkilling/Week 1/Algorithms in Data Structures/Algorithms in Data Structures.iml" filepath="$PROJECT_DIR$/DeepSkilling/Week 1/Algorithms in Data Structures/Algorithms in Data Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeepSkilling/Week 1/Design pattern and principles/Design pattern and principles.iml" filepath="$PROJECT_DIR$/DeepSkilling/Week 1/Design pattern and principles/Design pattern and principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_fse_repo.iml" filepath="$PROJECT_DIR$/.idea/java_fse_repo.iml" />
+    </modules>
+  </component>
+</project>
